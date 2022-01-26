@@ -1,0 +1,19 @@
+.container {
+  height: 100vh;
+  width: 100vh;
+  background-color: aliceblue;
+}
+
+.leftBtn,
+.rightBtn {
+  font-size: 2rem;
+  padding: 1rem;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.leftBtn:hover,
+.rightBtn:hover {
+  color: white;
+  background-color: black;
+}

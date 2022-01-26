@@ -1,6 +1,6 @@
-let i = 0;
+let i = 2;
 let images = [];
-let time = 3000;
+let time = 1000;
 
 images[0] = "1.jpeg";
 images[1] = "2.jpeg";
